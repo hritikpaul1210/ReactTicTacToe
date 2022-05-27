@@ -1,6 +1,6 @@
 body{
   background-color: #123;
-  color:#fff;
+  color:rgb(202, 49, 49);
 }
 main{
   width: 300px;
@@ -8,7 +8,7 @@ main{
 }
 div.board{
   display: grid;
-  border: 2px solid #fff;
+  border: 2px solid rgb(255, 255, 255);
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
 }
